@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+If you want to check this project click on this link https://active-admin-project.herokuapp.com/
+and you want to use admin pannel click on link this https://active-admin-project.herokuapp.com/admin
